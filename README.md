@@ -10,17 +10,22 @@ Table of Contents*
 [Contact](#contact)##
 
 General Information- 
--What problem does it (intend to) solve? To demonstrate knowledge of HTML and proper webpage HTML structure
+-What problem does it (intend to) solve? 
+To demonstrate knowledge of HTML and proper webpage HTML structure
 
--What is the purpose of your project? To learn how to use HTML to structure a website, and be css ready.
+-What is the purpose of your project? 
+To learn how to use HTML to structure a website, and be css ready.
 
--Why did you undertake it? To further advance in the Roadmap.sh Frontend path, as well as practice the knowledge that I've gained## 
+-Why did you undertake it?
+To further advance in the Roadmap.sh Frontend path, as well as practice the knowledge that I've gained## 
 
 
 Technologies Used- Tech 1- HTML 5- Tech 2 - GitHub## 
 FeaturesList the ready features here:- 4 linked HTML Pages- 
 SEO Optimized pages- 
 OG optimized pages## 
+
 Site_URL- https://roadmap.sh/projects/basic-html-website## 
+
 Contact- https://github.com/jovansaint1 
 
